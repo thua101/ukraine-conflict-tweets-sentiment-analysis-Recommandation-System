@@ -17,3 +17,8 @@ Keywords:
 2. I used certain text mining techniques, including tokenization, sentiment analysis, emoji cleaning and converting, keyword visualization (wordcloud maps), and ordinary exploartion (location, time distributions of those tweets).
 3. I also built a recommendation system for recommending 10 most sentimentally alike tweets based on cosine similarity.
 4. I applied most popular classifier methods (including SVM, random forest, decision tree, naive bayes, gradient boost and xgboost) to build predictive models that predict the sentiment of the tweets, and SVM model provides the best accuracy (99%).
+
+<p align="center"> 
+	<img src="https://i.pinimg.com/originals/9f/86/b4/9f86b47b419ab91250927b7fad7f08fd.gif" /> 
+	<img src="https://readme-typing-svg.herokuapp.com?font=Serif&color=%23116BF7&size=18&duration=6000&center=true&vCenter=true&width=600&height=30&lines=%E2%80%9Cest%C3%A1+lloviendo+en+Macondo.%E2%80%9D+" /> 
+</p>
