@@ -1,6 +1,6 @@
 ### ukraine-conflict-twitter-sentiment-analysis-Recommandation-System
 
-data: Datasets contain tweets monitoring the current ongoing Ukraine-Russia conflict. 
+Data: Datasets contain tweets monitoring the current ongoing Ukraine-Russia conflict. 
 data source:[Ukraine Conflict Twitter Dataset (10.8M tweets)](https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-dataset-1-2-m-rows/code)
 
 **What did I do?**
