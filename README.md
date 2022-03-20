@@ -12,7 +12,7 @@ Keywords:
 - classification
 - svm, random forest, decision tree, naive bayes, gradient boost, xgboost
 
-**What did I do?**
+**What exactly did I do?**
 1. Around 1 million tweets were posted between 17 Mar and 18 Mar about Ukraine Conflict, I converted them into Feather File Format for faster processing speed, and less ram usage.
 2. I used certain text mining techniques, including tokenization, sentiment analysis, emoji cleaning and converting, keyword visualization (wordcloud maps), and ordinary exploartion (location, time distributions of those tweets).
 3. I also built a recommendation system for recommending 10 most sentimentally alike tweets based on cosine similarity.
